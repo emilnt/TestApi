@@ -20,7 +20,7 @@ namespace CxApi.Controllers
         [HttpGet("{id}")]
         public string Get(int id)
         {
-            return "value";
+            return "newvalue";
         }
 
         // POST api/values
