@@ -1,0 +1,8 @@
+C:\Users\ent\Documents\repos\testapi\CxApi\bin\Debug\netcoreapp1.1\CxApi.deps.json
+C:\Users\ent\Documents\repos\testapi\CxApi\bin\Debug\netcoreapp1.1\CxApi.runtimeconfig.json
+C:\Users\ent\Documents\repos\testapi\CxApi\bin\Debug\netcoreapp1.1\CxApi.runtimeconfig.dev.json
+C:\Users\ent\Documents\repos\testapi\CxApi\bin\Debug\netcoreapp1.1\CxApi.dll
+C:\Users\ent\Documents\repos\testapi\CxApi\bin\Debug\netcoreapp1.1\CxApi.pdb
+C:\Users\ent\Documents\repos\testapi\CxApi\obj\Debug\netcoreapp1.1\CxApi.AssemblyInfo.cs
+C:\Users\ent\Documents\repos\testapi\CxApi\obj\Debug\netcoreapp1.1\CxApi.dll
+C:\Users\ent\Documents\repos\testapi\CxApi\obj\Debug\netcoreapp1.1\CxApi.pdb
